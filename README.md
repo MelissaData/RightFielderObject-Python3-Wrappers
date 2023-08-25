@@ -12,14 +12,14 @@ For further details, please visit: https://wiki.melissadata.com/images/7/79/DQT_
 
 ## Tested Environments
 
-- Windows 10 64-bit Python 3.8.7
-- Melissa Right Fielder Object for 2023-07
+- Windows 64-bit Python 3.8.7
+- Melissa Right Fielder Object for 2023-08
 
 ## Getting Started
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/RightFielderObject-Python3-Wrappers.git
+$ git clone https://github.com/MelissaData/RightFielderObject-Python3-Wrappers
 $ cd RightFielderObject-Python3-Wrappers
 ```
 
