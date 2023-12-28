@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/images/7/79/DQT_
 ## Tested Environments
 
 - Windows 64-bit Python 3.8.7
-- Melissa Right Fielder Object for 2023-11
+- Melissa Right Fielder Object for 2023-12
 
 ## Getting Started
 
