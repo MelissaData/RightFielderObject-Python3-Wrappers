@@ -14,15 +14,15 @@ For further details, please visit: https://wiki.melissadata.com/images/7/79/DQT_
 
 - Windows 10 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Right Fielder Object for 2024-Q3
-- Wrapper file(s) have not changed since 2024-Q2
+- Melissa Right Fielder Object for 2024-Q4
+- Wrapper file(s) have not changed since 2024-Q1
 
 ## Getting Started
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/RightFielderObject-Python3-Wrappers
-$ cd RightFielderObject-Python3-Wrappers
+git clone https://github.com/MelissaData/RightFielderObject-Python3-Wrappers
+cd RightFielderObject-Python3-Wrappers
 ```
 
 ### Copy wrappers to your project folder
