@@ -6,13 +6,13 @@ This is the code for you to run Right Fielder Object in Python3.
     
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For latest Melissa Right Fielder Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/rightfielder-object/
+To view the latest Melissa Right Fielder Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/rightfielder-object/
 
 For further details, please visit: https://wiki.melissadata.com/images/7/79/DQT_API_RightFielder_RG.pdf
 
 ## Tested Environments
 
-- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
 - Melissa Right Fielder Object for 2026-Q1
 - Wrapper file(s) have not changed since 2026-Q1
@@ -21,8 +21,8 @@ For further details, please visit: https://wiki.melissadata.com/images/7/79/DQT_
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/RightFielderObject-Python3-Wrappers
-cd RightFielderObject-Python3-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissarightfielderobjectpython3wrappers
+cd melissarightfielderobjectpython3wrappers
 ```
 
 ### Copy wrappers to your project folder
